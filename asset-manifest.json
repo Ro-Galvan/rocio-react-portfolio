@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rocio-react-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/rocio-react-portfolio/static/js/main.ddb5a28e.js",
+    "static/js/787.84dcdd5c.chunk.js": "/rocio-react-portfolio/static/js/787.84dcdd5c.chunk.js",
+    "static/media/logo.svg": "/rocio-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rocio-react-portfolio/index.html",
+    "main.073c9b0a.css.map": "/rocio-react-portfolio/static/css/main.073c9b0a.css.map",
+    "main.ddb5a28e.js.map": "/rocio-react-portfolio/static/js/main.ddb5a28e.js.map",
+    "787.84dcdd5c.chunk.js.map": "/rocio-react-portfolio/static/js/787.84dcdd5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ddb5a28e.js"
+  ]
+}
