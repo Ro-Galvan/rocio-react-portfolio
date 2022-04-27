@@ -1,3 +1,5 @@
+// what you actually see on the page
+
 import logo from './logo.svg';
 import './App.css';
 
