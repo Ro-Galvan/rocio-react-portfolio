@@ -4,14 +4,30 @@ export default function About() {
   return (
     <div>
       <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+      <div>
+      <p> Aspiring web developer enrolled in a full-stack developer course through the University of North Carolina-Charlotte.</p>
+            <p>This is an intensive full-time course where I attend class <em>M-F</em> from 10am-2:30pm.</p>
+            <p> What I've learned so far:
+                <ul><strong>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>Third-Party APIs</li>
+                    <li>Server-Side APIs</li>
+                    <li>Bootstrap</li>
+                    <li>Bootswatch</li>
+                    <li>Bulma</li>
+                    <li>Node.js</li>
+                    <li>Express.js</li>
+                    <li>SQL  MySQL2</li>
+                    <li>Model-View-Controller (MVC)</li>
+                </strong></ul>
+            </p>
+            <p>Please check back to see more of my projects and feel free to reach out with any job opportunities.</p>
+            </div>
+            <div class="column">
+            {/* <p><img src="./assets/images/new-pic.jpg"></p> */}
+        </div>
     </div>
   );
 }
