@@ -1,7 +1,8 @@
 import React from "react";
 
 const Footer = () => (
-  <div className="footer">
+  <div className="footer .bg-dark
+  ">
     <p>Styled by Rocio Galvan ©</p>
   </div>
 );
