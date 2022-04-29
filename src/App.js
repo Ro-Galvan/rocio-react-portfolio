@@ -10,10 +10,10 @@ import './App.css';
 
 const App = () => {
   return (
-    <>
+    <div>
     <PortfolioContainer />,
     <Footer />
-    </> 
+    </div> 
   );
 }
 
