@@ -9,13 +9,8 @@ export default function About() {
   }, [ ])
   return (
     // setting inline background image for homepage
-    <div className='.text-white' style={{
-      backgroundImage: `url(assets/about-homepage-background.jpg)`,
-      backgroundPosition: 'center',
-      backgroundSize: 'cover',
-      backgroundRepeat: 'no-repeat',
-      position: 'relative',
-    }}>
+    <div className='.text-white'> 
+    
       <h1>Hello Friends</h1>
       <div className='.text-white inline-block'>
         <h3> <span ref={textRef}>Aspiring web developer enrolled in a full-stack developer course through the University of North Carolina-Charlotte.

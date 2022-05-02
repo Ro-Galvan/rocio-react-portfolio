@@ -24,6 +24,7 @@ export default function Contact() {
           className="form-control"
           id="emailInput"
           placeholder="name@example.com"
+          required 
         />
       </div>
       <div className="mb-3">

@@ -9,6 +9,22 @@ export default function Resume() {
        <br></br>
        I would also love to hear from you so we can collaborate on new project ideas!
        <br></br>
+       <p> What I've learned so far:
+          <ul><strong>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Third-Party APIs</li>
+            <li>Server-Side APIs</li>
+            <li>Bootstrap</li>
+            <li>Bootswatch</li>
+            <li>Bulma</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>SQL  MySQL2</li>
+            <li>Model-View-Controller (MVC)</li>
+          </strong></ul>
+        </p>
         <a class="has-text-grey-dark link-color" href="../assets/developer-resume.pdf" download="resume">Download Resume</a>
       </p>
     </div>
