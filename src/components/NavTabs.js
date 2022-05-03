@@ -2,8 +2,9 @@ import React from 'react';
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <div className='row'>
-      <div className='.justify-content-start'>
+    // d-flex 
+    <div className='row'> 
+      <div className='justify-content-start'>
         <h1>Rocio</h1>
       </div>
       <ul className="nav nav-tabs justify-content-end">

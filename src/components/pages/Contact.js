@@ -1,8 +1,10 @@
 import React from 'react';
+import './contact.css';
 
 export default function Contact() {
   return (
     <>
+      <form className="form"> 
       <div className="mb-3">
         <h1>Contact me!</h1>
         <div className="mb-3">
@@ -39,6 +41,7 @@ export default function Contact() {
         />
       </div>
       <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
     </>
   );
 }
