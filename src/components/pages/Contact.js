@@ -1,6 +1,8 @@
 import React from 'react';
 import './contact.css';
 
+// put event listener on the email adress input, then create a handle change function which will check the letters that user types - 
+
 export default function Contact() {
   return (
     <>
@@ -27,6 +29,7 @@ export default function Contact() {
           id="emailInput"
           placeholder="name@example.com"
           required 
+          // only show when handle change function is invalid -style different --state will need to be used 
         />
       </div>
       <div className="mb-3">

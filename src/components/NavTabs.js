@@ -1,6 +1,6 @@
 import React from 'react';
 
-
+// chnage from inline 
 const styles = {
   header: {
     backgroundColor: '#60495A',
