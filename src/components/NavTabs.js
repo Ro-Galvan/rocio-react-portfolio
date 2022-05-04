@@ -1,9 +1,20 @@
 import React from 'react';
 
+
+const styles = {
+  header: {
+    backgroundColor: '#60495A',
+    
+  },
+  h1: {
+    fontSize: '100px',
+  }
+};
+
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     // d-flex 
-    <div className='row'> 
+    <header className='row header' style={styles.header}> 
       <div className='justify-content-start'>
         <h1>Rocio</h1>
       </div>
@@ -45,7 +56,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           </a>
         </li>
       </ul>
-    </div>
+    </header>
   );
 }
 
