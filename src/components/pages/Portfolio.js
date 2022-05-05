@@ -3,7 +3,7 @@ import './portfolio.css';
 
 export default function Portfolio() {
   return (
-    <div className="row row-cols-1 row-cols-md-2 g-4">
+    <div className="row row-cols-1 row-cols-md-2 g-4 my-0 mx-0">
       {/* Project 1-cosmic dust */}
       <div className="col projectCard">
         <div className="card">

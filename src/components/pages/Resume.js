@@ -3,8 +3,8 @@ import React from 'react';
 export default function Resume() {
   return (
     <div>
-      <h1>Resume</h1>
-      <p>
+      <h1 className="mt-2 ms-1">Resume</h1>
+      <p className="ms-3">
        Check out my resume! Feel free to reach out with any job opportunities!
        <br></br>
        I would also love to hear from you so we can collaborate on new project ideas!
