@@ -3,7 +3,7 @@ import React from 'react';
 export default function Resume() {
   return (
     <div>
-      <h1 className="mt-2 ms-1">Resume</h1>
+      <h1 className="mt-2 ms-3">Resume</h1>
       <p className="ms-3">
        Check out my resume! Feel free to reach out with any job opportunities!
        <br></br>
@@ -25,7 +25,7 @@ export default function Resume() {
             <li>Model-View-Controller (MVC)</li>
           </strong></ul>
         </p>
-        <a class="has-text-grey-dark link-color" href="../assets/developer-resume.pdf" download="resume">Download Resume</a>
+        <a className="ms-3 has-text-grey-dark link-color" href="../assets/developer-resume.pdf" download="resume">Download Resume</a>
       </p>
     </div>
   );

@@ -1,7 +1,7 @@
 # rocio-react-portfolio
 
 # Description
-I built my portfolio using React
+I built my portfolio using React and used Bootstrap to help style it. 
 
 [link to GitHub repository](https://github.com/Ro-Galvan/react-portfolio)
 

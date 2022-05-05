@@ -1,20 +1,9 @@
 import React from 'react';
 
-// chnage from inline 
-const styles = {
-  header: {
-    backgroundColor: '#60495A',
-    
-  },
-  h1: {
-    fontSize: '100px',
-  }
-};
-
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     // d-flex 
-    <header className='row header' style={styles.header}> 
+    <header className='row header'> 
       <div className='justify-content-start'>
         <h1>Rocio</h1>
       </div>
