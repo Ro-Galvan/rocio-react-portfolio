@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e3dec6d1a62bcfb6d950",
-    "url": "/rocio-react-portfolio/static/css/main.02a41c66.chunk.css"
+    "revision": "e3a3249e717e969fdc55",
+    "url": "/rocio-react-portfolio/static/css/main.db0ed5be.chunk.css"
   },
   {
-    "revision": "e3dec6d1a62bcfb6d950",
-    "url": "/rocio-react-portfolio/static/js/main.e3dec6d1.chunk.js"
+    "revision": "e3a3249e717e969fdc55",
+    "url": "/rocio-react-portfolio/static/js/main.e3a3249e.chunk.js"
   },
   {
     "revision": "e7c32effa60e9a0e0653",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/rocio-react-portfolio/static/js/runtime~main.c972130d.js"
   },
   {
-    "revision": "7c1779b38f16b1980ec52e9faf8b575f",
+    "revision": "8dfc27d90725f57b1f3b8bb345575919",
     "url": "/rocio-react-portfolio/index.html"
   }
 ];
