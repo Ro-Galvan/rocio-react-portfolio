@@ -4,6 +4,7 @@
 I built my portfolio using React and used Bootstrap to help style it. 
 
 [link to deployed website](https://ro-galvan.github.io/rocio-react-portfolio/)
+
 [link to GitHub repository](https://github.com/Ro-Galvan/rocio-react-portfolio)
 
 # Table of Contents
@@ -13,7 +14,7 @@ I built my portfolio using React and used Bootstrap to help style it.
 
 
 # Usage
-![screenshot](./assets/)
+![screenshot](./public/assets/screenshot.jpg)
 
 # License
  MIT
