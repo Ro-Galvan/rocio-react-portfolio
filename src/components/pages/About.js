@@ -7,11 +7,15 @@ export default function About() {
 
       <h1 className="mt-2 ms-3">About Me</h1>
       <div className="ms-3">
-        <h4>Aspiring web developer enrolled in a full-stack developer course through the University of North Carolina-Charlotte.
+        <p>Aspiring web developer enrolled in a full-stack developer course through the University of North Carolina-Charlotte.
+        <br />
+        I was a former logistics coordinator and have worked in a customer service environment for over 10 years. I will 
+        <br />
+        leverage my new coding skills with my business acumen to build front and back end apps. 
         <br />
         <br />
         Explore my page to find out more.
-        </h4>
+        </p>
       </div>
       <div class="column">
         <p>
